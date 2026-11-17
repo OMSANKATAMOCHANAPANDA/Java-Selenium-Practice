@@ -1,0 +1,6 @@
+target/
+*.class
+*.log
+.metadata/
+.DS_Store
+Thumbs.db
